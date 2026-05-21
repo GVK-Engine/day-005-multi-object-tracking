@@ -1,0 +1,6 @@
+MOT17/
+results/
+__pycache__/
+*.pyc
+*.jpg
+*.png
